@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/emilynelson451/Space%20Game%20Workflow/_apis/build/status/SmartHotel_Petchecker-Web?branchName=master)](https://dev.azure.com/emilynelson451/Space%20Game%20Workflow/_build/latest?definitionId=3&branchName=master)
 
 # Contributing
 
